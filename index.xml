@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Welcome to My Personal Website on 61l65k</title>
+    <title>Github Site on 61l65k</title>
     <link>//localhost:1313/</link>
-    <description>Recent content in Welcome to My Personal Website on 61l65k</description>
+    <description>Recent content in Github Site on 61l65k</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>serviceo@striimu.com (61l65k)</managingEditor>
@@ -11,63 +11,33 @@
     <copyright>© 2024 61l65k</copyright>
     <lastBuildDate>Mon, 14 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Digital Library</title>
-      <link>//localhost:1313/projects/library/</link>
+      <title>Personal</title>
+      <link>//localhost:1313/hassles/personal/</link>
       <pubDate>Mon, 14 Aug 2023 00:00:00 +0000</pubDate>
       <author>serviceo@striimu.com (61l65k)</author>
-      <guid>//localhost:1313/projects/library/</guid>
-      <description>Explore endless digital library</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/projects/library/feature-library.webp" />
+      <guid>//localhost:1313/hassles/personal/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/hassles/personal/feature-random.jpeg" />
     </item>
     
     <item>
-      <title>Email</title>
-      <link>//localhost:1313/projects/striimu/</link>
+      <title>Work</title>
+      <link>//localhost:1313/hassles/work/</link>
       <pubDate>Mon, 14 Aug 2023 00:00:00 +0000</pubDate>
       <author>serviceo@striimu.com (61l65k)</author>
-      <guid>//localhost:1313/projects/striimu/</guid>
-      <description>End-to-end encrypted email</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/projects/striimu/feature-email.jpg" />
+      <guid>//localhost:1313/hassles/work/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/hassles/work/feature-work.png" />
     </item>
     
     <item>
-      <title>Repositories</title>
-      <link>//localhost:1313/projects/wirelescanner/</link>
-      <pubDate>Mon, 14 Aug 2023 00:00:00 +0000</pubDate>
-      <author>serviceo@striimu.com (61l65k)</author>
-      <guid>//localhost:1313/projects/wirelescanner/</guid>
-      <description>Store your code with us</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/projects/wirelescanner/feature-repository.jpg" />
-    </item>
-    
-    <item>
-      <title>Sports IPTV / TV</title>
-      <link>//localhost:1313/projects/iptv/</link>
-      <pubDate>Mon, 14 Aug 2023 00:00:00 +0000</pubDate>
-      <author>serviceo@striimu.com (61l65k)</author>
-      <guid>//localhost:1313/projects/iptv/</guid>
-      <description>Explore our sports TV offerings</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/projects/iptv/feature-iptv.jpg" />
-    </item>
-    
-    <item>
-      <title>Streaming</title>
-      <link>//localhost:1313/projects/skinitori/</link>
-      <pubDate>Mon, 14 Aug 2023 00:00:00 +0000</pubDate>
-      <author>serviceo@striimu.com (61l65k)</author>
-      <guid>//localhost:1313/projects/skinitori/</guid>
-      <description>All the content you can imagine</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/projects/skinitori/feature-streaming.jpg" />
-    </item>
-    
-    <item>
-      <title>VPN</title>
-      <link>//localhost:1313/projects/vpn/</link>
+      <title>42 Projects</title>
+      <link>//localhost:1313/hassles/school/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>serviceo@striimu.com (61l65k)</author>
-      <guid>//localhost:1313/projects/vpn/</guid>
-      <description>VPN with no log policy</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/projects/vpn/feature-vpn.png" />
+      <guid>//localhost:1313/hassles/school/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/hassles/school/feature-school.jpg" />
     </item>
     
   </channel>
