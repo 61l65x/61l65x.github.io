@@ -1,0 +1,35 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #333; /* Dark gray background */
+  color: #fff;
+  font-family: Arial, sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  flex-direction: column;
+  text-align: center;
+}
+
+.profile-image {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%; /* Make the image circular */
+  object-fit: cover;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.6);
+  margin-bottom: 20px;
+}
+
+.link {
+  color: #00bfff; /* Light blue link color */
+  text-decoration: none;
+  font-size: 18px;
+  margin-top: 20px;
+  transition: color 0.3s;
+}
+
+.link:hover {
+  color: #1e90ff; /* Slightly brighter blue on hover */
+}
+
